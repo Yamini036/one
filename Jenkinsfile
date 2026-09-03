@@ -30,12 +30,7 @@ pipeline {
     }
 }
 
-we are learning webhooks
-this is jenkins session
-we are learning webhooks
-this is jenkins session
-we are learning webhooks
-this is jenkins session
+
 
 
 
