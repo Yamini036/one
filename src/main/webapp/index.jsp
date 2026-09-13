@@ -1321,7 +1321,7 @@
                     aria-label="Search products"
                 >
                 <button id="searchBtn" aria-label="Search">
-                    <i class="fas fa-search"></i>
+                    <em class="fas fa-search"></em>
                 </button>
             </div>
 
@@ -1331,7 +1331,7 @@
                 title="Toggle dark mode"
                 aria-label="Toggle dark mode"
             >
-                <i class="fas fa-moon"></i>
+                <em class="fas fa-moon"></em>
             </button>
 
             <button
